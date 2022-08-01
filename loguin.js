@@ -9,7 +9,7 @@ class User {
 }
 const usuarios = [];
 usuarios.push(new User("Jose", "Gonzalez" , 35330189, "jose@gmail.com", "admin"));
-usuarios.push(new User("Florencia", "Moreno" , 3606551, "flor@gmail.com", "contraseña"));
+usuarios.push(new User("Florencia", "Moreno" , 36065841, "flor@gmail.com", "contraseña"));
 usuarios.push(new User("Lara", "Weber" , 53564789, "lara@gmail.com", "clave"));
 usuarios.push(new User("Bruno", "Gomes" , 28325977, "bruno@gmail.com", "password"));
 usuarios.push(new User("Javier", "Gutierrez" , 13649156, "javier@gmail.com", "123456"));
